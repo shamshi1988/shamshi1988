@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hey there! Glad you dropped by! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=sarkar210&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -23,11 +24,10 @@ Here are some ideas to get you started:
 ✔️ I’m currently working on various Python and Flask API Development 🧠  
 ✔️ And 🌱 sharpening my skills as a **Python Developer**.  
 
-📬 Find Me Right Here:  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shamshi1988@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahnawazshamshi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/shamshi1988)
-
+📬 Find Me Right Here:  <a href="mailto:shamshi1988@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
+<a href="https://www.linkedin.com/in/shahnawazshamshi/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+<a href="https://www.leetcode.com/shamshi1988"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+ 
 ---
 <!--
 ## 🛠️ Languages and Tools:
