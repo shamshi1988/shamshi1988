@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **shamshi1988/shamshi1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hello there! Nice to meet ya'! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=sarkar210&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -33,7 +29,7 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/shamshi1988)
 
 ---
-
+<!--
 ## 🛠️ Languages and Tools:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
@@ -54,6 +50,6 @@ Here are some ideas to get you started:
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=shamshi988&theme=radical)
 
 ---
-
+-->
 > 🗨️ Feel free to reach out to me via Email or connect on LinkedIn.
 
