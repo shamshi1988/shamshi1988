@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ✔️ My expertise deals with **Software Development**.  
 ✔️ You can ask 💬 me about *Python or Laravel Web Application development*.  
 ✔️ I’m currently working on various Python and Flask API Development 🧠  
-✔️ And 🌱 sharpening my skills as a **Python Developer**.  
+✔️ And sharpening my skills as a **Python Developer**.  
 
 📬 Find Me Right Here:  <a href="mailto:shamshi1988@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
 <a href="https://www.linkedin.com/in/shahnawazshamshi/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
