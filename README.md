@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ✔️ Well, I am **Shahnawaz Shamsi**, a PostGrad in *Master Of Computer Application* from Annamalai University.  
 ✔️ My expertise deals with **Software Development**.  
-✔️ You can ask 💬 me about *Python or Laravel Web Application development*.  
+✔️ You can ask 💬 me about *Web Application & Mobile App development*.  
 ✔️ I’m currently working on various Python and Flask API Development 🧠  
 ✔️ And sharpening my skills as a **Python Developer**.  
 
