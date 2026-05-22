@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ## About Myself:-
 
-✔️ Well, I am **Shahnawaz Shamsi**, a PostGrad in *Master Of Computer Application* from Annamalai University.  
+✔️ Well, I am **Md Shahnawaz Ansari**, a PostGrad in *Master Of Computer Application* from Annamalai University.  
 ✔️ My expertise deals with **Software Development**.  
 ✔️ You can ask 💬 me about *Web Application & Mobile App development*.  
-✔️ I’m currently working on various Python and Flask API Development 🧠  
+✔️ I’m currently working on various Python, Flask API and Flutter Development 🧠  
 ✔️ And sharpening my skills as a **Python Developer**.  
 
 📬 Find Me Right Here:  <a href="mailto:shamshi1988@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
