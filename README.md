@@ -27,7 +27,96 @@ Here are some ideas to get you started:
 📬 Find Me Right Here:  <a href="mailto:shamshi1988@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
 <a href="https://www.linkedin.com/in/shahnawazshamshi/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 <a href="https://www.leetcode.com/shamshi1988"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
- 
+
+
+ <h4 align="left">🛠️ Languages and Tools: </h4>
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+   <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+      <br>PHP
+    </td>
+   <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="ReactJs" />
+      <br>ReactJs
+    </td>
+   <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJs" />
+      <br>NodeJs
+    </td>
+   <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
+      <br>Flutter
+    </td>
+   <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dart" width="40" height="40" alt="Dart" />
+      <br>Dart
+    </td>   
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>      
+      <br>Python
+    </td>
+    <td align="center" width="96">
+       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/> </a> 
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
+      <br>AWS
+    </td>    
+ </tr>
+ <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="icon" width="40" height="40" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>    
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+   <td align="center" width="96">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="icon" width="40" height="40" />
+      <br>Github
+    </td>
+   <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+      <br>VsCode
+    </td>
+ </tr>
+</table>
+<br><br>
+</table>
+
 ---
 <!--
 ## 🛠️ Languages and Tools:
