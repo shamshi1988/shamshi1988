@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ## About Myself:-
 
 ✔️ Well, I am **Md Shahnawaz Ansari**, a PostGrad in *Master Of Computer Application* from Annamalai University.  
-✔️ My expertise deals with **Software Development**.  
-✔️ You can ask 💬 me about *Web Application & Mobile App development*.  
-✔️ I’m currently working on various PHP, Python, Flask API, Flutter and Dart Development 🧠  
-✔️ And sharpening my skills as a **Python Developer**.  
+✔️ I have extensive experience in **Software Development**.  
+✔️ I provide support and consultation for *Web Application & Mobile App development*.  
+✔️ My current work focuses on PHP, Python, Flask API, Flutter and Dart Development 🧠  
+✔️ Continuously enhancing my expertise as a **Laravel, Flutter & Python Developer**.  
 
 📬 Find Me Right Here:  <a href="mailto:shamshi1988@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
 <a href="https://www.linkedin.com/in/shahnawazshamshi/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
